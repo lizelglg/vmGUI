@@ -4,3 +4,5 @@
 缺点是因为轻量，所以没有类似h5一样优秀的设计方式，如果让我重写一个库，或许会想h5靠拢，可惜现在也没太多精力跟兴趣重新做个库
 之所以共享出来，是不想该库就这样默默地陪我到死亡
 其中vmUIDesign是界面设计器，也可以当成使用该界面库的demo
+
+![image](https://github.com/lizelglg/vmGUI/blob/main/1.png)
